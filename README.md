@@ -3,17 +3,7 @@
 ### My Social Media Accounts
 [![subscribe!!](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@katilmami1473) 
 
-##### Mami Tool Termux
-
-English: Mami Tool Termux
-
-
-Mami Tool Termux
-
-
-
-
-
+# Mami Tool V4
 
 
 # > Requirements:
