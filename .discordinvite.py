@@ -1,7 +1,7 @@
 import json
 import requests
 
-#Main
+
 discord_server_invite_code = input("Discord sunucu davet kodunu girin: ")
 
 if not discord_server_invite_code:
