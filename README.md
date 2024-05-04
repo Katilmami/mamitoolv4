@@ -24,6 +24,6 @@
 
 ### After installing
 
-`python mamitoolv4.py`
+`python3 mamitoolv4.py`
 
 
